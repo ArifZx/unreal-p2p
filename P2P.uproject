@@ -16,5 +16,8 @@
 			"Name": "AdvancedSessions",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
